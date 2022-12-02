@@ -1,16 +1,21 @@
-public class D
+public class B
 {
-    public int D1 {get; set;}
-    public float D2 {get; set;}
+    public int B1 {get; set;}
+    public float B2 {get; set;}
 
-    public string MD1()
+    public void MB1()
     {
-        return "Brasil é HEXA";
+        Console.WriteLine("MB1");
     }
     
-    public int MD2()
+    public void MB2()
     {
-        return 5 + 1;
+        Console.WriteLine("MB2");
+    }
+
+    public void MB3()
+    {
+        Console.WriteLine("MB3");
     }
 
 }
