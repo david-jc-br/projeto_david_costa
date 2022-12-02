@@ -10,7 +10,12 @@ public class C
    
     public void MC2()
     {
-        Console.WriteLine("MC:2");
+        Console.WriteLine("MC2");
+    }
+
+    public void MC2()
+    {
+        Console.WriteLine("MC3");
     }
 
 }
