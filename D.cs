@@ -12,9 +12,13 @@ public class D
     {
         return 5 + 1;
     }
-
     public void MD3()
     {
         Console.WriteLine("MD3");
+    }
+
+    public void MD4()
+    {
+        Console.WriteLine("MD4");
     }
 }
